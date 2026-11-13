@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, San-Serif;
+  font-size: 100%;
+  background-color: #f7f7f7;
+}
+
+h1,
+h2 {
+  font-size: 26px;
+  color: #5d9bd5;
+  text-align: center;
+}
+
+h3 {
+  font-size: 22px;
+  color: #F1D302;
+  text-align: center;
+}
+
+h4 {
+  font-size: 20px;
+  color: #ed1c24;
+  font-style: italic;
+}
+form {
+    padding: 15px 0;
+    float: right;
+}
